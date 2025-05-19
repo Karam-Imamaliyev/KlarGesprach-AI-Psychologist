@@ -1,0 +1,8 @@
+{
+    "theme": "Light",
+    "model_name": "llama3",
+    "model_settings": {
+        "temperature": 0.7,
+        "max_tokens": 500
+    }
+}

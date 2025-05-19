@@ -1,0 +1,11 @@
+[
+    {
+        "conversation": "You: salam\nPsychologist: \u274c An error occurred: log_conversation() missing 1 required positional argument: 'bot_response'\n\nYou: how are ypu\nPsychologist: \u274c An error occurred: log_conversation() missing 1 required positional argument: 'bot_response'"
+    },
+    {
+        "conversation": "You: whatsapp\nPsychologist: \u274c An error occurred: log_conversation() missing 1 required positional argument: 'bot_response'"
+    },
+    {
+        "conversation": "You: welche sprache\nPsychologist: \u274c An error occurred: log_conversation() missing 1 required positional argument: 'bot_response'"
+    }
+]
