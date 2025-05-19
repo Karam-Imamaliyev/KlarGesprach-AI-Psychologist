@@ -68,4 +68,4 @@ Sessions are listed on the left; clicking on any session reloads that previous c
 This project is for informational and personal support use only.
 It is not a replacement for a real psychologist.
 If you need urgent help, talk to a human. 
-# KlarGesprach-AI-Psychologist
+
